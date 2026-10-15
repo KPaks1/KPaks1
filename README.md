@@ -9,7 +9,7 @@
 ---
 #### 🔧 Projects
 ##### flat-api - public
-Arriving in London, we bought house plants in our first weekend. Everyone was worried that we'd kill our plants by either overwatering or neglecting them. I built and stood up this system in Azure, bought NFC stickers to post the watering updates and connecting each of our phone numbers to receive updates via WhatsApp. I plan on making this available for multile households at some stage shortly.
+Arriving in London, we bought house plants in our first weekend. Everyone was worried that we'd kill our plants by either overwatering or neglecting them. I built and stood up this system in Azure, bought NFC stickers to post the watering updates and connected each of our phone numbers to receive updates via WhatsApp. It's an Azure function app written in python that also supports browser push notifications. I plan on making this available for multile households at some stage shortly.
 
 ##### Notice Board - <a href="https://polite-sea-029550e03.7.azurestaticapps.net/">public</a>
 
