@@ -15,7 +15,6 @@ Arriving in London, we bought house plants in our first weekend. Everyone was wo
 
 I built this project with the intention of actually using it myself to find and beat course records while I was living with my inlaws in Oslo, Norway.
 AI blew up while I was on a career break - so I used this project to fast track my learning before getting back into the work force. 
-*I see maps are currently broken on the app and I strava has updated their api recently, so I'll have to fix that too.*
 
 ##### porch - public
 Learning project to quickly upskill using a new stack. The system will eventually allow trusted users to connect and lend things to one another.
